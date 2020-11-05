@@ -1,7 +1,14 @@
 {
-  "label": "ant-form-item-required",
+  "h3": "h3",
+  "p": "p",
+  "label": ".ant-col.ant-col-16.ant-form-item-label",
   "name": "#name",
-  "gender": ".ant-radio-input",
+  "gender": ".ant-radio",
   "age": "#age",
-  "story": "#story"
+  "story": ".ant-select-selector",
+  "create": ".ant-btn",
+  "storyClick": ".ant-select-show-arrow",
+  "storyType": ".ant-select-item-option",
+  "image": ".ant-upload",
+  "tryAgain": ".btn-primary"
 }
